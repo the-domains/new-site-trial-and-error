@@ -1,0 +1,23 @@
+name: new site trial and error
+favicon: null
+layout_spectrum: 0.809851317666471
+typography_spectrum: 0.20007949066348374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9792051035910845
+  lightness: 0.29298794991336763
+  saturation: 0.30160818900913
+  rhythmicContrast: 0.29723210958763957
+purpose: []
