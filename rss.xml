@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[new site trial and error]]></title>
         <description><![CDATA[new site trial and error]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/new-site-trial-and-error/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 21:42:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 21:45:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/new-site-trial-and-error/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WIKI GAMES!!!!]]></title>
             <description><![CDATA[<h1>WIKI GAMES!!!!</h1>]]></description>
-            <link>undefinedwiki-games/index.html</link>
+            <link>https://thegrid.ai/new-site-trial-and-error/wiki-games/index.html</link>
             <guid isPermaLink="false">558bc0fe-9455-4910-95cf-4f3fdd1b11e7</guid>
-            <pubDate>Wed, 28 Oct 2015 21:42:05 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2015 21:45:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
