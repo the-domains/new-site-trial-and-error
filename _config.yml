@@ -1,7 +1,7 @@
 name: new site trial and error
 favicon: null
-layout_spectrum: 0.31675
-typography_spectrum: 0.61042
+layout_spectrum: 0.77918
+typography_spectrum: 0.37535
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#18110b'
     - '#4f5356'
     - '#fe8a3a'
-  brandStrength: 0.3125
+  brandStrength: 0.8125
   lightness: 0.5
-  saturation: 0.3125
+  saturation: 0.75
   rhythmicContrast: 0.5
 purpose: []
